@@ -2,7 +2,7 @@
 
 Steps:
 1. Create a Pod(pod.yaml)
-   Apply it:kubectl apply -f nginx-pod.yaml
+   Apply it:kubectl apply -f nginx-pod.yaml,
             kubectl get pods ,
             kubectl describe pod nginx-pod
    
