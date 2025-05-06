@@ -1,4 +1,5 @@
-Mini Project: Deploy a Simple Nginx Web App
+*Mini Project: Deploy a Simple Nginx Web App*
 
 Steps:
-1. 
+Step 1: Create a Pod
+Create a YAML file 
