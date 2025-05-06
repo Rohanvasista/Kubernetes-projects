@@ -34,6 +34,12 @@ For online documentation and support please refer to nginx.org.
 Commercial support is available at nginx.com.
 
 Thank you for using nginx.
+
+5. Clean up
+   kubectl delete -f deployment.yaml,
+   kubectl delete -f service.yaml,
+   kubectl delete -f replicaset.yaml
+   kubectl delete -f pod.yaml
    
 
    
